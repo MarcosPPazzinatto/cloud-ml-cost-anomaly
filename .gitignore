@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Data and artifacts
+data/
+mlruns/
+artifacts/
+.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
